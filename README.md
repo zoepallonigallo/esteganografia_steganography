@@ -1,1 +1,1 @@
-
+Proyecto práctico de la esteganografía. Detalla el proceso de ocultación de datos en imágenes mediante manipulación LSB y la aplicación de la prueba Chi-cuadrado ($\chi^2$) como contramedida forense para su detección.
